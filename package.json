@@ -1,0 +1,26 @@
+{
+  "name": "latindata",
+  "version": "0.0.0",
+  "description": "Processed Latin data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander" : "*",
+    "sprintf" : "*",
+    "xml2js" : "*",
+    "named-regexp" : "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/blair/Dropbox/Misc/nodejs/modules/latindata.git"
+  },
+  "keywords": [
+    "latin",
+    "dictionary",
+    "data"
+  ],
+  "author": "Blair McKenzie <shib71@gmail.com>",
+  "license": "BSD"
+}
