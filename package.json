@@ -10,6 +10,8 @@
     "commander" : "*",
     "sprintf" : "*",
     "xml2js" : "*",
+    "sst" : "*",
+    "colors" : "*",
     "named-regexp" : "*"
   },
   "repository": {
